@@ -1,0 +1,11 @@
+@import './base.css';
+
+
+* {
+  margin: 0;
+  padding: 0;
+  background: #F6F8FF;
+  width: auto;
+  height: auto;
+  font-family: 'Space Mono', monospace;
+}
