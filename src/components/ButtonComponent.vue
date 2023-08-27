@@ -1,13 +1,12 @@
 <script setup>
 
-    
     const props = defineProps ({
       text: String
     });
     </script>
 
 <template>
-    <button>{{ Search }}</button>
+    <button>{{ props.text }}</button>
 </template>
 
 
